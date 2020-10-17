@@ -1,0 +1,31 @@
+.myDiv {
+    background: url(https://images.unsplash.com/photo-1503455637927-730bce8583c0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+#myCanvas {
+    background-color: white;
+    width: 900px;
+    height: 500px;
+    margin: 50px;
+    border: 10px solid brown;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+#myButton {
+    background-color: white;
+    border: 3px solid brown;
+    border-radius: 15px;
+    margin-bottom: 150px;
+    padding: 8px 16px;
+    font-family: 'Piedra', serif;
+    font-size: 35px;
+    box-shadow: 5px 5px 5px grey;
+}
