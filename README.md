@@ -6,5 +6,5 @@ Visit: https://etchify-rs.netlify.app/
 
 Created this project by following Wes Bos's Beginner JavaScript course.
 
-![] (etchify_screenshot.png)
+![Screenshot] (https://www.dropbox.com/s/0o2gbne0pgefe42/etchify_screenshot.png?dl=0)
 
