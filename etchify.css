@@ -6,7 +6,7 @@
 
 @font-face {
     font-family: FrenchFries;
-    src: url(frenchfries.woff);
+    src: url(assets/fonts/frenchfries.woff);
 }
 
 .mainDiv {
@@ -62,7 +62,7 @@ button:hover {
 }
 
 body{
-    background-image: url(bgImage.jpg);
+    background-image: url(assets/images/bgImage.jpg);
     width: 100%;
     height: 100%;
     background-size: cover;
